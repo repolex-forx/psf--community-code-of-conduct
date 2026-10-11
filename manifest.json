@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1.0",
+  "org": "psf",
+  "repo": "community-code-of-conduct",
+  "versions": [
+    {
+      "commit": "ebb4d2c1d40126d0a03934a26e036b844111434d",
+      "parsed_at": "2026-10-11T07:56:53.577545+00:00",
+      "filetree": "filetree/ebb4d2c1d40126d0a03934a26e036b844111434d.nq.gz",
+      "blobs": [
+        "blob/af1ec1a5c44c46ef81e6f0534d20b782c0a19e60.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
