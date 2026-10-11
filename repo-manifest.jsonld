@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/psf/community-code-of-conduct/commit/ebb4d2c1d40126d0a03934a26e036b844111434d",
       "git:hexsha": "ebb4d2c1d40126d0a03934a26e036b844111434d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T07:59:21.440141+00:00"
     }
   ]
 }
