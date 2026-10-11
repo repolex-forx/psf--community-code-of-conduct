@@ -1,0 +1,7 @@
+[2026-10-11T07:57:55Z] === AST ITERATION 1 START | repo=psf/community-code-of-conduct sha=ebb4d2c1 ===
+[2026-10-11T07:57:55Z] [iter=1] PHASE START: ast repo=psf/community-code-of-conduct sha=ebb4d2c1
+[2026-10-11T07:57:55Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T07:57:55Z] [iter=1] AST chunks built count=1 triples=0
+[2026-10-11T07:57:55Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/ebb4d2c1d40126d0a03934a26e036b844111434d/.complete
+[2026-10-11T07:57:55Z] [iter=1] PHASE END: ast elapsed_s=0 elapsed_min=0.0
+[2026-10-11T07:57:55Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

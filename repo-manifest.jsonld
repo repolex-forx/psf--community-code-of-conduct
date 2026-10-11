@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/psf/community-code-of-conduct/commit/ebb4d2c1d40126d0a03934a26e036b844111434d",
       "git:hexsha": "ebb4d2c1d40126d0a03934a26e036b844111434d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
